@@ -1,0 +1,61 @@
+[
+  { "word": "CHOCOLATE", "clue": "Ingrediente principal de trufas e barras" },
+  { "word": "BRIGADEIRO", "clue": "O doce de festa mais famoso do Brasil" },
+  {
+    "word": "PUDIM",
+    "clue": "Sobremesa cremosa, geralmente de leite, com calda de caramelo"
+  },
+  { "word": "BOLO", "clue": "Presente em toda celebração de aniversário" },
+  { "word": "SORVETE", "clue": "Creme gelado, perfeito para dias quentes" },
+  {
+    "word": "GELEIA",
+    "clue": "Conservante de frutas que se come com pão ou torrada"
+  },
+  {
+    "word": "CUPCAKE",
+    "clue": "Bolo individual coberto com glacê ou *frosting*"
+  },
+  {
+    "word": "MOUSSE",
+    "clue": "Sobremesa aerada e leve, como a de maracujá ou chocolate"
+  },
+  {
+    "word": "CARAMELO",
+    "clue": "Açúcar derretido que endurece e é usado em coberturas"
+  },
+  {
+    "word": "COCADA",
+    "clue": "Doce tipicamente brasileiro feito com coco ralado"
+  },
+  {
+    "word": "TORTA",
+    "clue": "Doce grande, feito com massa, recheio e cobertura"
+  },
+  { "word": "BAUNILHA", "clue": "Sabor clássico de sorvetes e bolos" },
+  {
+    "word": "COOKIES",
+    "clue": "Biscoito americano crocante com gotas de chocolate"
+  },
+  {
+    "word": "CONFEITO",
+    "clue": "Miçangas coloridas usadas para decorar doces"
+  },
+  { "word": "PACOCA", "clue": "Doce brasileiro feito de amendoim" },
+  {
+    "word": "CHURROS",
+    "clue": "Massa frita polvilhada com açúcar e canela"
+  },
+  {
+    "word": "MARSHMALLOW",
+    "clue": "Doce macio e fofo, frequentemente assado em fogueiras"
+  },
+  {
+    "word": "GELATINA",
+    "clue": "Sobremesa colorida e translúcida, feita de suco de frutas"
+  },
+  { "word": "MELADO", "clue": "Xarope espesso feito de cana-de-açúcar" },
+  {
+    "word": "TRUFA",
+    "clue": "Doce feito com chocolate e creme, geralmente coberto com cacau"
+  }
+]

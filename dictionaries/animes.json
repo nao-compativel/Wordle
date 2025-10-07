@@ -1,0 +1,84 @@
+[
+  { "word": "NARUTO", "clue": "Ninja loiro do vilarejo da folha" },
+  { "word": "ONE_PIECE", "clue": "Pirata em busca do tesouro lendário" },
+  { "word": "DRAGON_BALL", "clue": "Série com esferas do dragão" },
+  {
+    "word": "ATTACK_ON_TITAN",
+    "clue": "Humanos lutam contra gigantes devoradores"
+  },
+  { "word": "DEATH_NOTE", "clue": "Caderno que mata qualquer pessoa" },
+  { "word": "BLEACH", "clue": "Shinigami luta contra espíritos malignos" },
+  { "word": "MY_HERO_ACADEMY", "clue": "Jovens aprendem a ser heróis" },
+  {
+    "word": "SWORD_ART_ONLINE",
+    "clue": "Jogadores presos em um jogo de realidade virtual"
+  },
+  {
+    "word": "DEMON_SLAYER",
+    "clue": "Caçador que busca vingança por sua irmã transformada em oni"
+  },
+  {
+    "word": "JUJUTSU_KAISEN",
+    "clue": "Aluno que ingere um objeto amaldiçoado e se torna um feiticeiro"
+  },
+  {
+    "word": "FULLMETAL_ALCHEMIST",
+    "clue": "Irmãos buscam a Pedra Filosofal após tentarem reviver a mãe"
+  },
+  {
+    "word": "POKEMON",
+    "clue": "Treinador que viaja para capturar criaturas e se tornar um mestre"
+  },
+  {
+    "word": "COWBOY_BEBOP",
+    "clue": "Caçadores de recompensa espaciais a bordo da nave Bebop"
+  },
+  {
+    "word": "EVANGELION",
+    "clue": "Adolescentes pilotam robôs gigantes para lutar contra Anjos"
+  },
+  {
+    "word": "SAILOR_MOON",
+    "clue": "Garota se transforma para lutar contra as forças do mal com suas amigas"
+  },
+  {
+    "word": "GHOST_IN_THE_SHELL",
+    "clue": "Agente ciborgue em uma unidade de segurança pública futurista"
+  },
+  {
+    "word": "CODE_GEASS",
+    "clue": "Estudante que recebe o poder de dar ordens absolutas"
+  },
+  {
+    "word": "TOKYO_GHOUL",
+    "clue": "Jovem que se torna meio-ghoul e luta para sobreviver"
+  },
+  {
+    "word": "HUNTER_X_HUNTER",
+    "clue": "Garoto sai em busca de seu pai, um renomado caçador"
+  },
+  {
+    "word": "ONE_PUNCH_MAN",
+    "clue": "Herói que derrota qualquer inimigo com um único soco"
+  },
+  {
+    "word": "FAIRY_TAIL",
+    "clue": "Magos de uma guilda se envolvem em diversas aventuras"
+  },
+  {
+    "word": "BERSERK",
+    "clue": "Espadachim negro em um mundo medieval sombrio"
+  },
+  {
+    "word": "VIOLET_EVERGARDEN",
+    "clue": "Ex-soldado que se torna uma 'boneca de automemórias' para entender o amor"
+  },
+  {
+    "word": "MOB_PSYCHO_100",
+    "clue": "Garoto com poderes psíquicos que trabalha para um falso médium"
+  },
+  {
+    "word": "AKIRA",
+    "clue": "Clássico cyberpunk com gangues de motoqueiros em Neo-Tokyo"
+  }
+]

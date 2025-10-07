@@ -1,0 +1,53 @@
+[
+  {
+    "word": "PIANO",
+    "clue": "Instrumento de teclas com martelos internos que batem nas cordas"
+  },
+  {
+    "word": "VIOLAO",
+    "clue": "Instrumento de cordas dedilhadas, popular no Brasil"
+  },
+  {
+    "word": "BATERIA",
+    "clue": "Conjunto de tambores e pratos usado para marcar o ritmo"
+  },
+  {
+    "word": "FLAUTA",
+    "clue": "Instrumento de sopro, pode ser doce ou transversal"
+  },
+  {
+    "word": "VIOLINO",
+    "clue": "Instrumento de cordas friccionadas com arco, da orquestra"
+  },
+  {
+    "word": "TROMBONE",
+    "clue": "Instrumento de metal que desliza o tubo para mudar as notas"
+  },
+  {
+    "word": "CLARINETE",
+    "clue": "Instrumento de sopro de madeira com uma palheta"
+  },
+  { "word": "SAXOFONE", "clue": "Instrumento de sopro de metal usado no jazz" },
+  { "word": "GUITARRA", "clue": "Versão elétrica do violão, popular no rock" },
+  {
+    "word": "PANDEIRO",
+    "clue": "Instrumento de percussão, famoso no samba e pagode"
+  },
+  {
+    "word": "ACORDEAO",
+    "clue": "Instrumento de fole, muito popular no forró e música caipira"
+  },
+  {
+    "word": "HARPA",
+    "clue": "Instrumento grande com cerca de 40 cordas tocadas com os dedos"
+  },
+  { "word": "TAMBOR", "clue": "Membranofone tocado com as mãos ou baquetas" },
+  {
+    "word": "UKULELE",
+    "clue": "Versão pequena do violão, de quatro cordas, popular no Havaí"
+  },
+  {
+    "word": "TRIANGULO",
+    "clue": "Idiofone simples de metal, tocado com uma pequena haste"
+  }
+]

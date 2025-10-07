@@ -1,0 +1,47 @@
+[
+  {
+    "word": "ZEUS",
+    "clue": "Deus supremo da mitologia grega, senhor dos céus e dos raios"
+  },
+  { "word": "POSEIDON", "clue": "Deus grego dos mares e oceanos" },
+  { "word": "HADES", "clue": "Deus grego do submundo e dos mortos" },
+  { "word": "ODIN", "clue": "Pai de Todos, deus supremo da mitologia nórdica" },
+  {
+    "word": "THOR",
+    "clue": "Deus nórdico do trovão, que empunha o martelo Mjölnir"
+  },
+  { "word": "LOKI", "clue": "Deus nórdico da trapaça e das travessuras" },
+  {
+    "word": "MEDUSA",
+    "clue": "Criatura grega com serpentes no lugar de cabelo, que petrificava quem a olhava"
+  },
+  {
+    "word": "HERCULES",
+    "clue": "Famoso herói grego, filho de Zeus, conhecido por seus 12 trabalhos"
+  },
+  { "word": "ASGARD", "clue": "Reino dos deuses Aesir na mitologia nórdica" },
+  {
+    "word": "OLIMPO",
+    "clue": "Montanha onde residiam os principais deuses gregos"
+  },
+  {
+    "word": "RAGNAROK",
+    "clue": "O evento apocalíptico que marca o fim do mundo na mitologia nórdica"
+  },
+  {
+    "word": "MINOTAURO",
+    "clue": "Criatura grega com corpo de homem e cabeça de touro, que vivia no Labirinto"
+  },
+  {
+    "word": "VALHALLA",
+    "clue": "O 'Salão dos Mortos' nórdico, onde os guerreiros caídos são recebidos"
+  },
+  {
+    "word": "TITA",
+    "clue": "Raça de gigantes que precedeu os deuses do Olimpo"
+  },
+  {
+    "word": "VALQUIRIA",
+    "clue": "Figura feminina nórdica que escolhe os mortos dignos de ir para Valhalla"
+  }
+]

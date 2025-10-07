@@ -1,0 +1,31 @@
+[
+  { "word": "ELEFANTE", "clue": "Maior animal terrestre" },
+  { "word": "LEAO", "clue": "Conhecido como rei da selva" },
+  { "word": "TUBARAO", "clue": "Predador aquático com muitos dentes" },
+  { "word": "GIRAFA", "clue": "Animal com pescoço longo" },
+  { "word": "PANDA", "clue": "Urso que gosta de bambu" },
+  { "word": "CORUJA", "clue": "Ave noturna conhecida por sua visão" },
+  { "word": "PINGUIM", "clue": "Ave que não voa e vive em regiões frias" },
+  { "word": "CANGURU", "clue": "Marsupial australiano que pula" },
+  { "word": "ZEBRA", "clue": "Animal listrado que vive na savana" },
+  { "word": "TARTARUGA", "clue": "Animal de casco duro e movimento lento" },
+  { "word": "GOLFINHO", "clue": "Mamífero aquático muito inteligente" },
+  { "word": "JACARE", "clue": "Réptil com mandíbulas poderosas" },
+  { "word": "PAVAO", "clue": "Ave famosa por sua cauda colorida" },
+  { "word": "RINOCERONTE", "clue": "Animal com um grande chifre no focinho" },
+  { "word": "LOBO", "clue": "Canídeo selvagem que vive em alcateias" },
+  { "word": "URSO", "clue": "Grande mamífero peludo que hiberna" },
+  { "word": "MACACO", "clue": "Animal ágil que vive em árvores" },
+  {
+    "word": "CAMELLO",
+    "clue": "Animal do deserto que armazena gordura nas corcovas"
+  },
+  { "word": "POLVO", "clue": "Animal marinho com oito tentáculos" },
+  { "word": "ONCA", "clue": "Felino brasileiro com pintas pelo corpo" },
+  { "word": "PAPAGAIO", "clue": "Ave falante de penas coloridas" },
+  {
+    "word": "HIPOPOTAMO",
+    "clue": "Animal grande que vive dentro da água doce"
+  },
+  { "word": "FOCA", "clue": "Mamífero marinho que gosta de gelo" }
+]

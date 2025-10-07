@@ -1,0 +1,35 @@
+[
+  { "word": "NINTENDO", "clue": "Empresa japonesa criadora do Mario" },
+  { "word": "PLAYSTATION", "clue": "Console da Sony" },
+  { "word": "XBOX", "clue": "Console da Microsoft" },
+  { "word": "MARIO", "clue": "Encanador famoso dos videogames" },
+  { "word": "ZELDA", "clue": "Série de aventura protagonizada por Link" },
+  { "word": "FORTNITE", "clue": "Jogo de batalha real com danças famosas" },
+  { "word": "MINECRAFT", "clue": "Jogo de blocos e sobrevivência" },
+  {
+    "word": "POKEMON",
+    "clue": "Franquia onde se capturam criaturas para batalhas"
+  },
+  {
+    "word": "PC",
+    "clue": "Plataforma de jogos conhecida por sua abertura (Gamer)"
+  },
+  {
+    "word": "GTA",
+    "clue": "Série de jogos de mundo aberto com crimes e veículos (Grand Theft Auto)"
+  },
+  {
+    "word": "PERSONAGEM",
+    "clue": "O boneco ou avatar que o jogador controla na tela"
+  },
+  {
+    "word": "CONSOLO",
+    "clue": "Dispositivo eletrônico usado para jogar videogames"
+  },
+  {
+    "word": "ARCADE",
+    "clue": "Máquina de jogos eletrônicos que funciona com moedas (fliperama)"
+  },
+  { "word": "FIFA", "clue": "Série de jogos de simulação de futebol" },
+  { "word": "COD", "clue": "Série de jogos de tiro militar (Call of Duty)" }
+]

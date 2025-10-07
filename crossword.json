@@ -1,0 +1,454 @@
+{
+  "board": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      {
+        "correctLetter": "H",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      {
+        "correctLetter": "T",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "Y",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "P",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "E",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "S",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "C",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "R",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "I",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "P",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "T",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      {
+        "correctLetter": "M",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      {
+        "correctLetter": "X",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "O",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "S",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      {
+        "correctLetter": "L",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      {
+        "correctLetter": "P",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "C",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "S",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "correctLetter": "R",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "K",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "correctLetter": "E",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "E",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "correctLetter": "S",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "T",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "correctLetter": "S",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "I",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "correctLetter": "N",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "O",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "D",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "E",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "J",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      {
+        "correctLetter": "S",
+        "currentLetter": "",
+        "placedBy": null
+      },
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "words": [
+    {
+      "id": 1,
+      "clue": "Superset do JavaScript com tipagem",
+      "direction": "across",
+      "startPosition": {
+        "row": 7,
+        "col": 2
+      },
+      "length": 10
+    },
+    {
+      "id": 2,
+      "clue": "Biblioteca para comunicação em tempo real",
+      "direction": "down",
+      "startPosition": {
+        "row": 7,
+        "col": 6
+      },
+      "length": 8
+    },
+    {
+      "id": 3,
+      "clue": "Framework web para Node.js",
+      "direction": "down",
+      "startPosition": {
+        "row": 7,
+        "col": 5
+      },
+      "length": 7
+    },
+    {
+      "id": 4,
+      "clue": "Ambiente de execução JavaScript no servidor",
+      "direction": "across",
+      "startPosition": {
+        "row": 14,
+        "col": 5
+      },
+      "length": 6
+    },
+    {
+      "id": 5,
+      "clue": "Linguagem de marcação para web",
+      "direction": "down",
+      "startPosition": {
+        "row": 6,
+        "col": 2
+      },
+      "length": 4
+    },
+    {
+      "id": 6,
+      "clue": "Linguagem para estilizar páginas web",
+      "direction": "down",
+      "startPosition": {
+        "row": 7,
+        "col": 7
+      },
+      "length": 3
+    }
+  ],
+  "players": []
+}

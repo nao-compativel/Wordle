@@ -1,0 +1,301 @@
+[
+  { "word": "RIO_NILO", "clue": "O rio mais longo do mundo" },
+  { "word": "MERCURIO", "clue": "O planeta mais proximo do Sol" },
+  { "word": "HIMALAIA", "clue": "Cordilheira onde fica o Monte Everest" },
+  { "word": "SAARA", "clue": "O maior deserto quente do mundo" },
+  { "word": "VATICANO", "clue": "O menor pais do mundo em area" },
+  { "word": "TOQUIO", "clue": "Capital do Japao" },
+  {
+    "word": "ATENAS",
+    "clue": "Cidade onde ocorreram os primeiros Jogos Olimpicos modernos (1896)"
+  },
+  { "word": "DUBLIN", "clue": "Capital da Irlanda" },
+  { "word": "TAJ_MAHAL", "clue": "Famoso mausoleu localizado na India" },
+  {
+    "word": "CANGACO",
+    "clue": "Movimento de bandoleiros do Nordeste brasileiro"
+  },
+  { "word": "CANGURU", "clue": "O animal nacional da Australia" },
+  { "word": "POLVO", "clue": "Animal marinho que possui tres coracoes" },
+  {
+    "word": "FINLANDIA",
+    "clue": "O pais com o maior consumo de cafe per capita"
+  },
+  { "word": "MACA", "clue": "Fruta dos tipos Pink Lady e Granny Smith" },
+  {
+    "word": "BESOURO",
+    "clue": "O animal mais forte do mundo em proporcao ao seu peso"
+  },
+  {
+    "word": "EQUADOR",
+    "clue": "Linha imaginaria que divide a Terra em hemisferio Norte e Sul"
+  },
+  {
+    "word": "FOSSA_MARIANAS",
+    "clue": "O ponto mais profundo dos oceanos da Terra"
+  },
+  { "word": "MEANDRO", "clue": "Curvas sinuosas de um rio" },
+  {
+    "word": "ESTREITO",
+    "clue": "Passagem maritima estreita que liga dois oceanos"
+  },
+  { "word": "PARIS", "clue": "A Cidade Luz" },
+  {
+    "word": "PRIMEIRA",
+    "clue": "Guerra mundial iniciada pela morte de Francisco Ferdinando (A ____ Guerra)"
+  },
+  { "word": "CONSTANTINOPLA", "clue": "Nome da cidade de Istambul ate 1923" },
+  {
+    "word": "SEGUNDA",
+    "clue": "Guerra que terminou em 1945 com as bombas atomicas (A ____ Guerra)"
+  },
+  {
+    "word": "1969",
+    "clue": "Ano em que o homem pisou na Lua pela primeira vez"
+  },
+  {
+    "word": "REVOLUCAO_FRANCESA",
+    "clue": "Movimento que pos fim a monarquia na Franca"
+  },
+  {
+    "word": "CASTELA",
+    "clue": "Reino que assinou o Tratado de Tordesilhas com Portugal"
+  },
+  {
+    "word": "VERA_CRUZ",
+    "clue": "O primeiro nome dado ao Brasil pelos portugueses"
+  },
+  {
+    "word": "ALVARES_CABRAL",
+    "clue": "Comandante da esquadra que chegou ao Brasil em 1500 (Pedro ____)"
+  },
+  {
+    "word": "CARAVELAS",
+    "clue": "Embarcacoes portuguesas que chegaram ao Brasil"
+  },
+  {
+    "word": "GUERRA_FRIA",
+    "clue": "Periodo de tensao entre EUA e URSS (1945-1991)"
+  },
+  {
+    "word": "INCA",
+    "clue": "Imperio sul-americano que nao possuia idioma escrito"
+  },
+  {
+    "word": "GUILHOTINA",
+    "clue": "Instrumento de execucao da Revolucao Francesa"
+  },
+  { "word": "MOISES", "clue": "Figura biblica que recebeu os 10 Mandamentos" },
+  {
+    "word": "MONUMENTAL",
+    "clue": "Obra de arte, edificio ou evento de grande magnitude"
+  },
+  {
+    "word": "BARROCO",
+    "clue": "Periodo artistico com obras de Caravaggio e Aleijadinho"
+  },
+  { "word": "NOKIA", "clue": "Empresa que produziu o famoso celular 3310" },
+  { "word": "PAPEL", "clue": "Invencao chinesa crucial para a comunicacao" },
+  { "word": "1863", "clue": "Ano em que o metro de Londres foi inaugurado" },
+  { "word": "MANDARIM", "clue": "O idioma mais falado na China" },
+  { "word": "PALAS_ATENA", "clue": "Deusa grega nascida da cabeca de Zeus" },
+  { "word": "ELETRON", "clue": "Particula subatomica com carga negativa" },
+  {
+    "word": "GREGOR_MENDEL",
+    "clue": "Considerado o 'Pai da Genetica Moderna'"
+  },
+  {
+    "word": "MARIE_CURIE",
+    "clue": "Unica pessoa com Nobel em duas ciencias diferentes (Fisica e Quimica)"
+  },
+  {
+    "word": "HIDROGENIO",
+    "clue": "Elemento quimico que compoe 74% da massa do Sol"
+  },
+  { "word": "ENDOCRINO", "clue": "O sistema do corpo que produz hormonios" },
+  {
+    "word": "OLHO",
+    "clue": "A unica parte do corpo totalmente formada no nascimento"
+  },
+  {
+    "word": "ESTRIBO",
+    "clue": "O menor osso do corpo humano, localizado no ouvido"
+  },
+  {
+    "word": "SANGUE_NULO",
+    "clue": "O tipo sanguineo considerado mais raro no mundo"
+  },
+  { "word": "ACIDO_CITRICO", "clue": "Acido presente no limao" },
+  {
+    "word": "INCISIVOS",
+    "clue": "Os dentes humanos mais visiveis e frontais"
+  },
+  { "word": "DARWIN", "clue": "Cientista famoso pela Teoria da Evolucao" },
+  { "word": "CRISTAL", "clue": "O mineral mais duro conhecido (Diamante)" },
+  {
+    "word": "ABAIXO",
+    "clue": "O nivel do mar e o ponto de referencia para a altitude"
+  },
+  { "word": "MICOLOGIA", "clue": "O estudo de fungos e cogumelos" },
+  {
+    "word": "HIPPOCRATES",
+    "clue": "Medico grego antigo, origem do Juramento (Juramento ____)"
+  },
+  {
+    "word": "PERIMETRO",
+    "clue": "Medida do contorno de uma figura (Circunferencia)"
+  },
+  {
+    "word": "MICHEL_ANGELO",
+    "clue": "Artista que pintou o teto da Capela Sistina"
+  },
+  { "word": "SHAKESPEARE", "clue": "Autor da peca 'Romeu_e_Julieta'" },
+  { "word": "CRISTO_REDENTOR", "clue": "Famoso monumento no Rio de Janeiro" },
+  {
+    "word": "SIMPSONS",
+    "clue": "A mais longa serie de animacao da TV americana"
+  },
+  {
+    "word": "FLUMINENSE",
+    "clue": "Time brasileiro campeao da Libertadores de 2023"
+  },
+  { "word": "LONDRES", "clue": "Cidade que sediou os Jogos Olimpicos de 2012" },
+  {
+    "word": "HARRY_POTTER",
+    "clue": "A serie de livros mais vendida do seculo XXI"
+  },
+  {
+    "word": "PETER_JACKSON",
+    "clue": "Diretor da trilogia 'O Senhor dos Aneis'"
+  },
+  { "word": "GUINNESS", "clue": "A cerveja stout mais vendida do mundo" },
+  { "word": "CARAVAGGIO", "clue": "Pintor italiano da epoca do Barroco" },
+  {
+    "word": "MOEDA",
+    "clue": "O Real e a unidade monetaria do Brasil, ou seja, a nossa..."
+  },
+  { "word": "ABAPORU", "clue": "Quadro famoso de Tarsila do Amaral" },
+  {
+    "word": "MANCHESTER",
+    "clue": "Clube de futebol conhecido como 'The Red Devils' (____ United)"
+  },
+  {
+    "word": "SERENA_WILLIAMS",
+    "clue": "Terceira na lista de campeoes de Grand Slam de tenis de todos os tempos"
+  },
+  {
+    "word": "MICHAEL_SCHUMACHER",
+    "clue": "Piloto com mais campeonatos de Formula 1"
+  },
+  {
+    "word": "CANGACEIRO",
+    "clue": "Nome dado aos bandoleiros do Nordeste brasileiro"
+  },
+  {
+    "word": "MUSICAS",
+    "clue": "O livro de Salmos e o maior da Biblia, e significa 'Canticos' ou ____"
+  },
+  {
+    "word": "XADREZ",
+    "clue": "Jogo de tabuleiro que simula uma batalha medieval"
+  },
+  {
+    "word": "ANDY_WARHOL",
+    "clue": "Artista famoso pela Pop Art e por latas de sopa Campbell"
+  },
+  {
+    "word": "VERONA",
+    "clue": "Cidade onde se passa a tragedia 'Romeu_e_Julieta'"
+  },
+  {
+    "word": "GRIFO",
+    "clue": "Criatura mitica com corpo de leao e cabeca de aguia"
+  },
+  {
+    "word": "PANDORA",
+    "clue": "Segundo a mitologia grega, foi a primeira mulher da Terra"
+  },
+  { "word": "POSEIDON", "clue": "Deus grego que usava um tridente" },
+  { "word": "HADES", "clue": "Irmao de Zeus, deus do submundo" },
+  { "word": "IRIS", "clue": "Deusa grega que representava o Arco-Iris" },
+  {
+    "word": "BOREAS",
+    "clue": "O deus grego do vento norte, que trazia o inverno"
+  },
+  { "word": "LOURO", "clue": "A arvore sagrada do deus Apolo" },
+  {
+    "word": "HERCULES",
+    "clue": "Famoso heroi grego, filho de Zeus, conhecido por seus 12 trabalhos"
+  },
+  {
+    "word": "TITA",
+    "clue": "Raca de gigantes que precedeu os deuses do Olimpo"
+  },
+  { "word": "ASGARD", "clue": "Reino dos deuses Aesir na mitologia nordica" },
+  {
+    "word": "MEDUSA",
+    "clue": "Criatura grega que petrificava quem olhava para ela"
+  },
+  { "word": "ODIN", "clue": "Deus nordico, Pai de Todos" },
+  {
+    "word": "VALQUIRIA",
+    "clue": "Figura feminina nordica que escolhe os guerreiros mortos"
+  },
+  {
+    "word": "FENRIR",
+    "clue": "O lobo gigantesco da mitologia nordica, filho de Loki"
+  },
+  {
+    "word": "MIMIR",
+    "clue": "O gigante nordico conhecido por sua sabedoria (Fonte de ____)"
+  },
+  { "word": "BRASIL", "clue": "Pais onde foi inventado o chuveiro eletrico" },
+  { "word": "MESQUITA", "clue": "Templo religioso do islamismo" },
+  {
+    "word": "LIBRA",
+    "clue": "Moeda oficial do Reino Unido e a mais antiga em circulacao (Esterlina)"
+  },
+  {
+    "word": "NEIL_ARMSTRONG",
+    "clue": "O primeiro homem a pisar na Lua (em 1969)"
+  },
+  { "word": "CHUVAS", "clue": "O prefixo 'Pluvi' esta relacionado a isso" },
+  { "word": "TATURANA", "clue": "Nome dado popularmente a lagarta-de-fogo" },
+  { "word": "ACROFOBIA", "clue": "Medo ou fobia de altura" },
+  {
+    "word": "VELOCIDADE",
+    "clue": "O no e uma unidade de medida disso, usada em navegacao"
+  },
+  {
+    "word": "FRAGATA",
+    "clue": "Nome de uma ave marinha e de um tipo de navio de guerra"
+  },
+  {
+    "word": "GORDO",
+    "clue": "A gordura e essencial para o corpo, mas em excesso e um mal (Colesterol ____)"
+  },
+  {
+    "word": "BORBOLETA",
+    "clue": "O inseto que enxerga mais cores do que o olho humano"
+  },
+  {
+    "word": "MANTIQUEIRA",
+    "clue": "Serra que significa 'gota que chora' (em tupi)"
+  },
+  {
+    "word": "BRONZE",
+    "clue": "Metal usado para fazer medalhas de terceiro lugar"
+  },
+  {
+    "word": "LINGUA",
+    "clue": "O orgao mais forte do corpo humano em relacao ao seu tamanho"
+  },
+  { "word": "TIM_BERNERS_LEE", "clue": "Inventor da World Wide Web (WWW)" },
+  { "word": "GOOGLE", "clue": "A maior empresa de tecnologia do mundo" },
+  { "word": "RODAR", "clue": "O verbo que descreve o movimento de uma roda" },
+  {
+    "word": "PLACA_MAE",
+    "clue": "O principal circuito impresso que conecta todos os componentes"
+  },
+  { "word": "PROCESSADOR", "clue": "O 'cerebro' do computador (ou CPU)" }
+]

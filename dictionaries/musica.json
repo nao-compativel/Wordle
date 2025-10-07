@@ -1,0 +1,29 @@
+[
+  { "word": "MADONNA", "clue": "Rainha do pop" },
+  {
+    "word": "MICHAEL_JACKSON",
+    "clue": "Rei do pop, famoso pelo Moonwalk e Thriller"
+  },
+  { "word": "BEATLES", "clue": "Banda britânica famosa na década de 60" },
+  { "word": "QUEEN", "clue": "Banda liderada por Freddie Mercury" },
+  {
+    "word": "TAYLOR_SWIFT",
+    "clue": "Cantora americana conhecida pelo country e pop"
+  },
+  { "word": "BEYONCE", "clue": "Cantora e empresária apelidada de Queen Bey" },
+  { "word": "ELVIS", "clue": "O Rei do Rock" },
+  { "word": "EMINEM", "clue": "Rapper famoso por 'Lose Yourself'" },
+  { "word": "BTS", "clue": "Grupo de K-pop sul-coreano" },
+  {
+    "word": "RIHANNA",
+    "clue": "Cantora barbadiana famosa por hits e pela marca Fenty"
+  },
+  { "word": "PRINCE", "clue": "Ícone do pop e funk, famoso por 'Purple Rain'" },
+  { "word": "METALLICA", "clue": "Banda de heavy metal americana" },
+  {
+    "word": "LADY_GAGA",
+    "clue": "Cantora conhecida por performances extravagantes e 'Bad Romance'"
+  },
+  { "word": "BRITNEY_SPEARS", "clue": "Princesa do Pop, ícone dos anos 2000" },
+  { "word": "FREDDIE_MERCURY", "clue": "Vocalista lendário da banda Queen" }
+]

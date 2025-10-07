@@ -1,0 +1,32 @@
+[
+  { "word": "SOL", "clue": "Estrela central do nosso sistema" },
+  { "word": "MARTE", "clue": "O planeta vermelho" },
+  { "word": "GALAXIA", "clue": "Grande sistema de estrelas, gás e poeira" },
+  { "word": "COMETA", "clue": "Corpo celeste com cauda brilhante" },
+  {
+    "word": "NEBULOSA",
+    "clue": "Nuvem de gás e poeira no espaço interestelar"
+  },
+  { "word": "SATELITE", "clue": "Corpo que orbita um planeta" },
+  { "word": "ASTRONAUTA", "clue": "Viajante do espaço" },
+  { "word": "ÓRBITA", "clue": "Caminho curvo de um objeto no espaço" },
+  {
+    "word": "BURACO",
+    "clue": "Região do espaço com gravidade extrema (negro)"
+  },
+  {
+    "word": "METEORO",
+    "clue": "Rastro de luz deixado por uma rocha espacial na atmosfera"
+  },
+  {
+    "word": "CONSTELACAO",
+    "clue": "Grupo de estrelas com um padrão reconhecível"
+  },
+  { "word": "JUPITER", "clue": "O maior planeta do Sistema Solar" },
+  {
+    "word": "TELESCOPIO",
+    "clue": "Instrumento para observar objetos distantes"
+  },
+  { "word": "PLUTAO", "clue": "Famoso planeta anão" },
+  { "word": "VIA", "clue": "Onde está nosso Sistema Solar (Láctea)" }
+]

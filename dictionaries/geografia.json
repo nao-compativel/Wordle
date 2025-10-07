@@ -1,0 +1,59 @@
+[
+  {
+    "word": "CLIMA",
+    "clue": "Estado médio do tempo atmosférico durante um longo período"
+  },
+  {
+    "word": "RELEVO",
+    "clue": "Conjunto de formas da superfície terrestre (ex: planalto, montanha)"
+  },
+  {
+    "word": "MAPA",
+    "clue": "Representação gráfica e reduzida de uma área da Terra"
+  },
+  {
+    "word": "LATITUDE",
+    "clue": "Distância de um ponto ao Equador, medida em graus"
+  },
+  {
+    "word": "LONGITUDE",
+    "clue": "Distância de um ponto ao Meridiano de Greenwich, medida em graus"
+  },
+  { "word": "ATMOSFERA", "clue": "Camada gasosa que envolve o planeta Terra" },
+  {
+    "word": "RIOS",
+    "clue": "Cursos de água naturais que correm para o mar, lago ou outro rio"
+  },
+  {
+    "word": "CIDADES",
+    "clue": "Grandes concentrações populacionais e centros de atividade (Geografia Urbana)"
+  },
+  {
+    "word": "POPULAÇAO",
+    "clue": "Conjunto de habitantes de um lugar (objeto de estudo da Demografia)"
+  },
+  {
+    "word": "DESERTO",
+    "clue": "Área com escassez de precipitação e vegetação"
+  },
+  {
+    "word": "CONTINENTE",
+    "clue": "Grande massa de terra emersa (ex: Europa, América)"
+  },
+  {
+    "word": "ILHA",
+    "clue": "Porção de terra cercada de água por todos os lados"
+  },
+  {
+    "word": "PLACA",
+    "clue": "Cada um dos grandes blocos que formam a crosta terrestre (____ tectônica)"
+  },
+  {
+    "word": "AGRICULTURA",
+    "clue": "Atividade de cultivo da terra para produção de alimentos (Geografia Agrária)"
+  },
+  {
+    "word": "FUSO",
+    "clue": "Faixa da superfície terrestre onde o horário é o mesmo (____ horário)"
+  }
+]

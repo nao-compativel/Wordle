@@ -1,0 +1,38 @@
+[
+  { "word": "EGITO", "clue": "Civilização famosa pelas pirâmides" },
+  { "word": "ROMA", "clue": "Império conhecido pelo Coliseu" },
+  { "word": "NAPOLEAO", "clue": "Imperador francês famoso por conquistas" },
+  {
+    "word": "RENASCIMENTO",
+    "clue": "Período de grandes avanços culturais na Europa"
+  },
+  {
+    "word": "COLONIAL",
+    "clue": "Período de exploração e dominação de territórios"
+  },
+  {
+    "word": "REVOLUCAO_FRANCESA",
+    "clue": "Movimento que derrubou a monarquia na França"
+  },
+  { "word": "INDUSTRIAL", "clue": "Revolução que trouxe fábricas e máquinas" },
+  { "word": "GUERRAMUNDIAL", "clue": "Conflito global do século XX" },
+  { "word": "FARAÓ", "clue": "Título dado aos reis do Antigo Egito" },
+  {
+    "word": "FEUDALISMO",
+    "clue": "Sistema social da Europa durante a Idade Média"
+  },
+  {
+    "word": "GUILHOTINA",
+    "clue": "Instrumento de execução usado na Revolução Francesa"
+  },
+  { "word": "ESCRAVIDAO", "clue": "Sistema de exploração de mão de obra" },
+  {
+    "word": "VARGAS",
+    "clue": "Presidente brasileiro que governou o país durante 15 anos (Era ____)"
+  },
+  { "word": "CONSTITUICAO", "clue": "Conjunto de leis que rege um país" },
+  {
+    "word": "DESCOBRIMENTO",
+    "clue": "O nome dado à chegada dos portugueses ao Brasil em 1500"
+  }
+]

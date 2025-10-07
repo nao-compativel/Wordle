@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Palavras Cruzadas Online</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Palavras Cruzadas com Amigos</h1>
+
+    <div id="welcome-screen">
+      <h2>Bem-vindo!</h2>
+      <input type="text" id="playerNameInput" placeholder="Digite seu nome" />
+      <div class="game-options">
+        <div class="option-group">
+          <h4>Modo de Jogo</h4>
+          <br />
+          <div class="radio-group">
+            <input
+              type="radio"
+              id="mode-normal"
+              name="gameMode"
+              value="normal"
+              checked
+            /><label for="mode-normal">Normal</label>
+            <input
+              type="radio"
+              id="mode-zen"
+              name="gameMode"
+              value="zen"
+            /><label for="mode-zen">Zen</label>
+            <input
+              type="radio"
+              id="mode-turbo"
+              name="gameMode"
+              value="turbo"
+            /><label for="mode-turbo">Turbo</label>
+            <input
+              type="radio"
+              id="mode-versus"
+              name="gameMode"
+              value="versus"
+            /><label for="mode-versus">Versus</label>
+          </div>
+        </div>
+        <div class="option-group">
+          <label for="numThemesInput"
+            >Misturar Temas: <span id="numThemesValue">5</span></label
+          >
+          <input type="range" id="numThemesInput" min="1" max="5" value="5" />
+        </div>
+      </div>
+      <div class="room-actions">
+        <button id="createGameBtn">Criar Novo Jogo</button>
+        <div class="join-game">
+          <input type="text" id="gameIdInput" placeholder="Código da Sala" />
+          <button id="joinGameBtn">Entrar no Jogo</button>
+        </div>
+      </div>
+      <p id="error-message" class="hidden"></p>
+    </div>
+
+    <div id="game-container" class="hidden">
+      <div id="crossword-grid"></div>
+      <div id="info-panel">
+        <div id="game-info">
+          <h3>Sala: <span id="game-id-display"></span></h3>
+          <h3>Tema: <span id="game-theme-display"></span></h3>
+          <h3>Tempo: <span id="timer-display">00:00</span></h3>
+        </div>
+        <div id="players-section">
+          <h2>Jogadores</h2>
+          <ul id="player-list"></ul>
+        </div>
+        <div id="versus-panel" class="hidden">
+          <h2>Oponentes</h2>
+          <ul id="opponent-scores"></ul>
+        </div>
+        <div id="clues-section">
+          <h3>Dicas</h3>
+          <div id="clues-across">
+            <h4>Horizontais</h4>
+            <ul id="clues-across-list"></ul>
+          </div>
+          <div id="clues-down">
+            <h4>Verticais</h4>
+            <ul id="clues-down-list"></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="end-game-screen" class="hidden">
+      <div id="end-game-box">
+        <h2>Parabéns!</h2>
+        <p>Jogo concluído em: <strong id="final-time"></strong></p>
+        <h3>Pontuação Final:</h3>
+        <ul id="final-scores"></ul>
+        <p id="waiting-for-host-msg" class="hidden">
+          Aguardando o anfitrião iniciar uma nova partida...
+        </p>
+        <div class="end-game-buttons">
+          <button id="rematch-btn" class="hidden">Criar Nova Partida</button>
+          <button id="lobby-btn">Voltar ao Lobby</button>
+        </div>
+      </div>
+    </div>
+
+    <audio id="correct-sound" src="/sounds/correct.mp3" preload="auto"></audio>
+    <audio id="wrong-sound" src="/sounds/wrong.mp3" preload="auto"></audio>
+    <audio id="reveal-sound" src="/sounds/reveal.mp3" preload="auto"></audio>
+
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+    <script src="client.js"></script>
+  </body>
+</html>

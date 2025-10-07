@@ -1,0 +1,50 @@
+[
+  {
+    "word": "BREAKING_BAD",
+    "clue": "Série sobre químico que fabrica metanfetamina"
+  },
+  {
+    "word": "STRANGER_THINGS",
+    "clue": "Série com crianças e fenômenos sobrenaturais"
+  },
+  {
+    "word": "GAME_OF_THRONES",
+    "clue": "Série épica baseada em livros de fantasia"
+  },
+  { "word": "FRIENDS", "clue": "Sitcom sobre seis amigos em Nova York" },
+  { "word": "THE_CROWN", "clue": "Série sobre a monarquia britânica" },
+  {
+    "word": "SHERLOCK",
+    "clue": "Detetive britânico famoso criado por Conan Doyle"
+  },
+  { "word": "WESTWORLD", "clue": "Parque futurista com robôs conscientes" },
+  { "word": "THE_OFFICE", "clue": "Série de comédia ambientada em escritório" },
+  {
+    "word": "GREYS_ANATOMY",
+    "clue": "Série de drama médico ambientada em Seattle"
+  },
+  {
+    "word": "SIMPSONS",
+    "clue": "A mais longa série de animação da TV americana"
+  },
+  {
+    "word": "NETFLIX",
+    "clue": "Plataforma de streaming famosa que produz séries originais"
+  },
+  {
+    "word": "DRAMA",
+    "clue": "Gênero de série focado em conflitos e emoções sérias"
+  },
+  {
+    "word": "SITCOM",
+    "clue": "Comédia de situação gravada em estúdio com risadas de fundo"
+  },
+  {
+    "word": "WALKING_DEAD",
+    "clue": "Série de terror e sobrevivência em um apocalipse zumbi"
+  },
+  {
+    "word": "HOUSE",
+    "clue": "Série sobre um médico gênio e ranzinza que resolve casos difíceis (Dr. ____)"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "word": "ALGORITMO",
+    "clue": "Sequência de instruções para resolver um problema"
+  },
+  {
+    "word": "PYTHON",
+    "clue": "Linguagem de programação famosa por sua simplicidade"
+  },
+  { "word": "LINUX", "clue": "Sistema operacional de código aberto" },
+  {
+    "word": "FIREWALL",
+    "clue": "Barreira de segurança que controla o tráfego de rede"
+  },
+  { "word": "HACKER", "clue": "Pessoa que explora sistemas computacionais" },
+  { "word": "BYTE", "clue": "Unidade de medida de dados equivalente a 8 bits" },
+  { "word": "NUVEM", "clue": "Local virtual para armazenar dados online" },
+  {
+    "word": "CIBERSEGURANCA",
+    "clue": "Área que protege sistemas e redes contra ataques digitais"
+  },
+  {
+    "word": "SOFTWARE",
+    "clue": "Conjunto de programas e instruções que fazem o computador funcionar"
+  },
+  {
+    "word": "HARDWARE",
+    "clue": "Parte física de um computador (teclado, monitor, placa-mãe)"
+  },
+  {
+    "word": "INTERNET",
+    "clue": "Rede mundial que conecta bilhões de computadores"
+  },
+  { "word": "ROTEADOR", "clue": "Dispositivo que distribui o sinal de Wi-Fi" },
+  {
+    "word": "MEMÓRIA_RAM",
+    "clue": "Local temporário de acesso rápido usado para executar programas"
+  },
+  {
+    "word": "PLACA_MAE",
+    "clue": "O principal circuito impresso que conecta todos os componentes"
+  },
+  { "word": "PROCESSADOR", "clue": "O 'cérebro' do computador (ou CPU)" }
+]

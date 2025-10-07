@@ -1,0 +1,44 @@
+[
+  { "word": "TITANIC", "clue": "Famoso filme sobre um naufrágio em 1912" },
+  { "word": "AVATAR", "clue": "Filme de James Cameron com seres azuis" },
+  { "word": "STAR_WARS", "clue": "Saga espacial com sabres de luz e a Força" },
+  { "word": "MATRIX", "clue": "Trilogia sobre realidade simulada e pílulas" },
+  {
+    "word": "JURASSIC_PARK",
+    "clue": "Parque temático com dinossauros recriados"
+  },
+  {
+    "word": "INTERESTELAR",
+    "clue": "Viagem espacial em busca de um novo lar para a humanidade"
+  },
+  {
+    "word": "GODFATHER",
+    "clue": "O clássico da máfia italiana (O Poderoso Chefão)"
+  },
+  {
+    "word": "VINGADORES",
+    "clue": "O ápice do Universo Marvel contra Thanos (Ultimato)"
+  },
+  { "word": "CORINGA", "clue": "Arqui-inimigo do Batman" },
+  {
+    "word": "MÁGICO",
+    "clue": "Dorothy, um cãozinho e o caminho de tijolos amarelos (de Oz)"
+  },
+  {
+    "word": "E.T.",
+    "clue": "O alienígena que queria ir para casa (Extraterrestre)"
+  },
+  {
+    "word": "SCHINDLER",
+    "clue": "O drama de Steven Spielberg sobre o Holocausto (A Lista de)"
+  },
+  { "word": "PIXAR", "clue": "Estúdio de animação famoso por Toy Story" },
+  {
+    "word": "FOREST",
+    "clue": "A vida de um homem simples contada em primeira pessoa (Gump)"
+  },
+  {
+    "word": "PSICOSE",
+    "clue": "O clássico de terror de Alfred Hitchcock e sua cena de chuveiro"
+  }
+]

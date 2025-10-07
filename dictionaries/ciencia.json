@@ -1,0 +1,44 @@
+[
+  { "word": "ÁTOMO", "clue": "Menor partícula que define um elemento químico" },
+  { "word": "MOLÉCULA", "clue": "Combinação de dois ou mais átomos" },
+  { "word": "CÉLULA", "clue": "Unidade básica da vida" },
+  {
+    "word": "GRAVIDADE",
+    "clue": "Força de atração mútua entre corpos com massa"
+  },
+  {
+    "word": "EVOLUÇAO",
+    "clue": "Processo de mudança e adaptação das espécies"
+  },
+  {
+    "word": "FÓRMULA",
+    "clue": "Representação concisa de uma substância química ou lei física"
+  },
+  {
+    "word": "EXPERIMENTO",
+    "clue": "Teste realizado para confirmar ou refutar uma hipótese"
+  },
+  { "word": "HIPÓTESE", "clue": "Suposição inicial que pode ser testada" },
+  {
+    "word": "VACINA",
+    "clue": "Preparações que criam imunidade contra doenças"
+  },
+  {
+    "word": "DNA",
+    "clue": "Material genético que carrega as instruções da vida"
+  },
+  {
+    "word": "QUIMICA",
+    "clue": "Ciência que estuda a matéria e suas transformações"
+  },
+  {
+    "word": "FISICA",
+    "clue": "Ciência que estuda a matéria, energia e suas interações"
+  },
+  { "word": "BIOLOGIA", "clue": "Ciência que estuda os seres vivos" },
+  {
+    "word": "TEORIA",
+    "clue": "Explicação amplamente aceita e testada para fenômenos"
+  },
+  { "word": "ENERGIA", "clue": "Capacidade de realizar trabalho" }
+]
