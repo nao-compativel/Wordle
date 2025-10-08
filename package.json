@@ -1,24 +1,23 @@
 {
-  "name": "palavras-cruzadas-server",
+  "name": "palavras-cruzadas-online",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Jogo de palavras cruzadas multiplayer",
   "type": "module",
+  "main": "dist/src/server.js",
   "scripts": {
-    "start": "node --loader ts-node/esm src/server.ts",
-    "generate": "node --loader ts-node/esm src/core/generateBoard.ts"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@types/express": "^5.0.3",
-    "@types/node": "^24.7.0",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "build": "tsc && cp -r public dist/ && cp -r dictionaries dist/",
+    "start": "node dist/src/server.js",
+    "dev": "nodemon src/server.ts"
   },
   "dependencies": {
-    "express": "^5.1.0",
-    "socket.io": "^4.8.1"
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.12",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }

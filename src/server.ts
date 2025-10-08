@@ -434,5 +434,5 @@ setInterval(() => {
   }
 }, 1000);
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 server.listen(PORT, () => console.log(`Servidor rodando na porta ${PORT}`));
