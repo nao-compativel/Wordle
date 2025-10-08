@@ -1,5 +1,8 @@
 dist
 node_modules
-@types
 .env
+.vscode
 .DS_Store
+.idea
+*.log
+npm-debug.log*
