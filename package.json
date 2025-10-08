@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Jogo de palavras cruzadas multiplayer",
   "type": "module",
-  "main": "dist/src/server.js",
+  "main": "dist/server.js",
   "scripts": {
-    "build": "tsc && cp -r public dist/ && cp -r dictionaries dist/",
-    "start": "node dist/src/server.js",
+    "build": "tsc && ncp public dist/public && ncp dictionaries dist/dictionaries",
+    "start": "node dist/server.js",
     "dev": "nodemon src/server.ts"
   },
   "dependencies": {
@@ -16,6 +16,7 @@
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.12.12",
+    "ncp": "^2.0.0",
     "nodemon": "^3.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
